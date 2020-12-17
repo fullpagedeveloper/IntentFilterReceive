@@ -1,0 +1,2 @@
+rootProject.name='Note Intet Filter'
+include ':app'
